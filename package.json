@@ -1,0 +1,18 @@
+{
+  "name": "akvue",
+  "version": "0.0.1",
+  "description": "ak-vue 快速搭建初始化项目的脚手架",
+  "main": "index.js",
+  "bin": {
+    "ak-vue": "./bin/mvc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "commander": "^8.3.0"
+  }
+}
