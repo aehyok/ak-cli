@@ -1,6 +1,6 @@
 {
   "name": "aehyok-cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "aehyok-cli 快速搭建初始化项目的脚手架",
   "main": "index.js",
   "bin": {
