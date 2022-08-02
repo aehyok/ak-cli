@@ -1,10 +1,11 @@
 {
-  "name": "akvue",
-  "version": "0.0.1",
-  "description": "ak-vue 快速搭建初始化项目的脚手架",
+  "name": "aehyok-cli",
+  "version": "0.0.4",
+  "description": "aehyok-cli 快速搭建初始化项目的脚手架",
   "main": "index.js",
   "bin": {
-    "ak-vue": "./bin/mvc.js"
+    "ak-vue": "./bin/vue.js",
+    "ak-vite": "./bin/vite.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +19,5 @@
     "inquirer": "^8.2.0",
     "readline": "^1.3.0",
     "recast": "^0.20.5"
-  },
-  "devDependencies": {}
+  }
 }

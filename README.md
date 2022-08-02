@@ -9,3 +9,16 @@ ak-vue3 脚手架搭建
 那么就可以通过 ak-vue create demo 创建项目
 
 - 2、如何通过交互提示进行选择基本框架（inquirer 依赖包）
+
+
+## 1、先全局安装脚手架
+```javascript
+// 全局安装aehyok-cli
+npm i aehyok-cli -g
+```
+
+## 2、使用两个指令
+```javascript
+ak-vue create
+ak-vite create
+```
