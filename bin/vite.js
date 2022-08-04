@@ -1,8 +1,5 @@
 #! /usr/bin/env node
 
-const result = "1234567890"
-console.log('vitess', result)
+console.log('vite.1js')
 
-console.log('vite.js')
-
-console.log('vite.js')
+console.log('vite.2js')

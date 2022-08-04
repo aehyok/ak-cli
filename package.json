@@ -1,17 +1,17 @@
 {
   "name": "aehyok-cli",
-  "version": "0.2.0",
+  "version": "0.0.10",
   "description": "aehyok-cli 快速搭建初始化项目的脚手架",
   "main": "index.js",
   "bin": {
-    "ak-vue": "./bin/vue.js",
-    "ak-vite": "./bin/vite.js"
+    "create-ak-vue": "./bin/vue.js",
+    "create-ak-vite": "./bin/vite.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it"
   },
-  "author": "",
+  "author": "aehyok",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
