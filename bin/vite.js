@@ -3,5 +3,3 @@
 console.log('vite.1js')
 
 console.log('vite.2js')
-
-console.log('vite.3js')
