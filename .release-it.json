@@ -1,6 +1,7 @@
 {
   "github": {
-    "release": true
+    "release": true,
+    "web": true
   },
   "git": {
     "commitMessage": "release: v${version}"
