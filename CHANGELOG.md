@@ -1,5 +1,12 @@
 
 
+## [0.3.2](https://github.com/aehyok/ak-cli/compare/0.3.1...0.3.2) (2022-08-15)
+
+
+### Bug Fixes
+
+* update vite ([96d1484](https://github.com/aehyok/ak-cli/commit/96d148432c309a7fd45f49191f4445aeef029d36))
+
 ## [0.3.1](https://github.com/aehyok/ak-cli/compare/0.3.0...0.3.1) (2022-08-15)
 
 
