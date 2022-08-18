@@ -1,5 +1,7 @@
 
 
+## [0.3.6](https://github.com/aehyok/ak-cli/compare/0.3.5...0.3.6) (2022-08-18)
+
 ## [0.3.5](https://github.com/aehyok/ak-cli/compare/0.3.4...0.3.5) (2022-08-15)
 
 
